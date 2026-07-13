@@ -2,6 +2,10 @@
 
 A decision-support system that helps marketing teams investigate campaign performance issues, detect data inconsistencies, identify compliance risks, compare historical campaign outcomes, and generate actionable recommendations through an interactive dashboard.
 
+# Walkthrough video link
+
+https://drive.google.com/file/d/10RYDpF3c1SODQRPQD7P3k8TVwgBz0Qdd/view?usp=drivesdk
+
 ---
 
 ## Problem Statement
